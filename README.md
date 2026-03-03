@@ -1,2 +1,2 @@
-# Bughunters--Basic-Cyclun0-Task
+# Bughunters--Basic-Cycluno-Task
 This is my first repository configuring it to get notification on slack
